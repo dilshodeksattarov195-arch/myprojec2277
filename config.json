@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingpelete",
+        "uuid": 16011864,
+        "checksum": "k70ux"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
